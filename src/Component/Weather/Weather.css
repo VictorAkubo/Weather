@@ -118,7 +118,7 @@
 .humidityandwind_sect p{
     background: transparent;
 }
-@media(max-width:800){
+@media(max-width:800px){
     .weather {
     display: grid;
     align-items: center;
