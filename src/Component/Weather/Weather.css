@@ -1,0 +1,120 @@
+.whole_weather {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 15px;
+    gap: 16px;
+    padding: 20px 40px;
+    width: 450px;
+    height: 68vh;
+    box-shadow: 5px 5px 10px 6px rgba(101, 36, 221, 0.3);
+    background: linear-gradient(45deg,#2f4680,#500ae4);
+}
+
+.input_bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: transparent;
+
+}
+
+.input_bar input {
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    border: none;
+    font-size: 22px;
+    color: #363535;
+    outline: none;
+    padding: 2px 10px;
+    background: rgb(196, 192, 192);
+}
+
+.input_bar img {
+    border-radius: 50%;
+    height: 30px;
+    cursor: pointer;
+    color: #363535;
+    background: rgb(196, 192, 192);
+    padding: 6px;
+}
+
+.temperature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+}
+.temperature p{
+    color: whitesmoke;
+    background: transparent;
+    font-size: 22px;
+}
+
+.temperature img {
+    width: 150px;
+    height: 150px;
+    background: transparent;
+
+}
+
+.temperature h2 {
+    background: transparent;
+    font-size: 60px;
+    color: whitesmoke;
+}
+.temperature h3 {
+    background: transparent;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+.temperature span {
+    font-size: 46px;
+    position: relative;
+    background: transparent;
+    top: -15px;
+}
+
+.humidityandwind {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(196, 192, 192) ;
+    gap: 20px;
+}
+
+.humidityandwind_sect {
+    display: flex;
+    gap: 8px;
+    background: transparent;
+    justify-content: center;
+    align-items: center;
+}
+.humidityandwind_text{
+    background: transparent;
+    gap: 4px;
+}
+.humidityandwind_sect h3{
+    background: transparent;
+    font-size: 32px;
+}
+.humidityandwind_sect img{
+    background: transparent;
+    height: 50px;
+    width: 50px;
+}
+.humidityandwind_sect p{
+    background: transparent;
+}

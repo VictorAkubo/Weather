@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Tsirt Wear",
+        "category": "male",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./tshirt.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Tsirt Wear",
+        "category": "female",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./female.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    },
+    {
+        "id": 75,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    },
+    {
+        "id": 65,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    },
+    {
+        "id": 655,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    },
+    {
+        "id": 6553,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    },
+    {
+        "id": 666,
+        "name": "Tsirt Wear",
+        "category": "children",
+        "price": "$500",
+        "previous": "$700",
+        "picture":"./children.jpeg"
+    }
+]

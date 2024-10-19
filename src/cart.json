@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "picture": "./tshirt.jpeg",
+        "price": 600
+    },
+    {
+        "id": 2,
+        "picture": "./tshirt.jpeg",
+        "price": 700
+    },
+    {
+        "id": 3,
+        "picture": "./tshirt.jpeg",
+        "price": 900
+    }
+]
