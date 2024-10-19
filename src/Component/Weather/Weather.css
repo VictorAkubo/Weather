@@ -118,3 +118,67 @@
 .humidityandwind_sect p{
     background: transparent;
 }
+@media(max-width:800){
+    .weather {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 15px;
+    gap: 12px;
+    padding: 20px 40px;
+    width: 300px;
+    height: 50vh;
+    box-shadow: 5px 5px 10px 6px rgba(101, 36, 221, 0.3);
+    background: linear-gradient(45deg,#2f4680,#500ae4);
+}
+    .humidityandwind_sect img{
+    background: transparent;
+    height: 40px;
+    width: 40px;
+}
+    .humidityandwind_sect h3{
+    background: transparent;
+    font-size: 23px;
+}
+    .temperature p{
+    color: whitesmoke;
+    background: transparent;
+    font-size: 20px;
+}
+
+.temperature img {
+    width: 100px;
+    height: 100px;
+    background: transparent;
+
+}
+
+.temperature h2 {
+    background: transparent;
+    font-size: 45px;
+    color: whitesmoke;
+}
+.temperature h3 {
+    background: transparent;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.temperature span {
+    font-size: 33px;
+    position: relative;
+    background: transparent;
+    top: -10px;
+}
+
+.humidityandwind {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(196, 192, 192) ;
+    gap: 15px;
+}
+
+}
