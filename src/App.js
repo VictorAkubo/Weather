@@ -19,10 +19,10 @@ import Weather from './Component/Weather/Weather';
 function App() {
   return (
     <div className="App">
-      {/**/}
+<Weather />
     /*   <NavBar /> */
-      <Routes>
-       {/*  <Route path="/" element={<Shop />} />
+    /*   <Routes>
+        <Route path="/" element={<Shop />} />
         <Route path="/mens" element={<ShopCategory banner={mens_banner} category="men" />} />
         <Route path="/womens" element={<ShopCategory banner={womens_banner} category="women" />} />
         <Route path="/kids" element={<ShopCategory banner={kids_banner} category="kids" />} />
@@ -30,9 +30,9 @@ function App() {
           <Route path=":productId" element={<Product />} />
         </Route>
         <Route path="/cart" element={<Cart />} />
-        <Route path="/login" element={<LoginSignup />} /> */}
+        <Route path="/login" element={<LoginSignup />} /> 
         <Route path="/" element={<Weather />} />
-      </Routes>
+      </Routes> */
  /*      <Footer /> */
     </div>
   );
