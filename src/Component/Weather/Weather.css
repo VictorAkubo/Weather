@@ -127,8 +127,8 @@
     border-radius: 15px;
     gap: 12px;
     padding: 20px 40px;
-    width: 300px;
-    height: 50vh;
+    width: fit-content;
+    height: 80vh;
     box-shadow: 5px 5px 10px 6px rgba(101, 36, 221, 0.3);
     background: linear-gradient(45deg,#2f4680,#500ae4);
 }
